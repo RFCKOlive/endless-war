@@ -26,7 +26,7 @@ class EwServer:
                 ewcfg.col_icon
             ), (self.id_server,))
 
-            if data != None:
+            if data != ():
                 # Record found: apply the data to this object.
                 self.name = data[0]
             else:
