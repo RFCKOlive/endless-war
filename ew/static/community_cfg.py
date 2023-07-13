@@ -400,7 +400,8 @@ dualpistolskilltext = [
     "{name_player} does a backflip off a nearby building, blasting their pistols into {name_target}. {name_target} is dead before they even hit the ground. {emote_skull}",
     "{name_player} graciously twirls around like a ballet dancer, pistols in hand. They fire off round after round into {name_target}, who now lays dead.",
     "{name_player} squeezes their pistol triggers rapidly. **POP POP POP POP!** Lead pierces {name_target}’s lungs several times over. {emote_skull}",
-    "{name_player} caps {name_target}'s knees repeatedly, knocking them prone in a pool of their blood. To finish the kill, {name_player} crouches next to them and places a pistol barrel into each eye. **POP POP!** {emote_skull}"
+    "{name_player} caps {name_target}'s knees repeatedly, knocking them prone in a pool of their blood. To finish the kill, {name_player} crouches next to them and places a pistol barrel into each eye. **POP POP!** {emote_skull}",
+    "{name_player} launches themselves off the ground, unloading piercing lead into {name_target} with a dive. Landing with the final blows of a skillful headshot! {emote_skull}"
 ]
 
 yoyokilltext = [
@@ -470,14 +471,17 @@ brassknuckleskilltext = [
     "{name_player} slugs {name_target} right in the throat before finishing off with a brass knuckle uppercut that breaks off most of their lower jaw. {emote_skull}",
     "{name_player} perfectly executes a cheap fighting game combo! {name_target} is stuck in an infinite, continually getting brass to the face before eventually dying. {emote_skull}",
     "{name_player} hits their brass knuckles together, prepping for a big strike. They crush {name_target}’s head between their fists, pushing until their skull pops. {emote_skull}",
-    "{name_player} challenges {name_target} to duck this one! Before {name_target} can even process the words, they get socked in the jaw so utterly hard that Endless War winces for a second. What is left of them is a mere slime stain on the pavement. {emote_skull}"
+    "{name_player} challenges {name_target} to duck this one! Before {name_target} can even process the words, they get socked in the jaw so utterly hard that Endless War winces for a second. What is left of them is a mere slime stain on the pavement. {emote_skull}",
+    "{name_player} gets into ramming speed towards {name_target}, brass knuckles first. {name_target}s chest explodes wide open from the impact, leaving a meaty crater! {emote_skull}"
 ]
 
 basskilltext = [
     "{name_player} knocks {name_target} out cold with a bass to the back of the head. Afterwards, {name_player} plays an epic tune to their victory. {emote_skull}",
     "{name_player} brutally bashes {name_target} over the head with their bass. With each swing the guitar twangs loudly as it dents more and more. {emote_skull}",
     "{name_player} grabs their pick and begins to lay down a *sick nasty* bass solo. {name_target} stands in awe and the sheer epicness of it liquifies them. {emote_skull}",
-    "{name_player} stands on the sidewalk and lets loose with a sweet bass tune! {name_target} dances along, unaware of the incoming truck. **Splat.** {emote_skull}"
+    "{name_player} stands on the sidewalk and lets loose with a sweet bass tune! {name_target} dances along, unaware of the incoming truck. **Splat.** {emote_skull}",
+    "{name_player} rams their bass's tip right through {name_target}s chest! As they are speared to a wall, {name_player} beats them like a makeshift sand bag. {emote_skull}",
+    "{name_player} effortlessly grabs the back of {name_target}'s head, grinding it against the strings. A terrible tune is emitted from the bass as their face is grinded up. {emote_skull}"
 ]
 
 skateboardkilltext = [
@@ -495,7 +499,7 @@ machetekilltext = [
 ]
 
 bowkilltext = [
-    "{name_player} quickly enchants their bow with Fire Aspect I. {name_target} gets struck by a flaming arrow, burning into a crisp in an instant. {emote_skull}",
+    "{name_player} quickly enchants their bow with Flame. {name_target} gets struck by a flaming arrow, burning into a crisp in an instant. {emote_skull}",
     "{name_player} nocks arrow after arrow into their bow, launching them into {name_target}. {name_target} looks less like a person and more like a porcupine. {emote_skull}",
     "{name_player} chases around {name_target}, right clicking their bow over and over. {name_target} turns red and falls over, disappearing into smoke particles. {emote_skull}",
     "{name_player} squints at the city horizon as they draw back their bow! **Ding!** A single arrow lands squarely in {name_target}'s chest, knocking them off balance and into an open manhole straight to the sewers. ```{name_target} fell out of the world.``` {emote_skull}"
