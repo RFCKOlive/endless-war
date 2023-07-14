@@ -785,6 +785,26 @@ EwNpc(
     starting_statuses = ['6leveltrainer', ewcfg.status_enemy_trainer_id],
     is_threat=False
 ),
+EwNpc(
+    id_npc = "rlslime",
+    active = True,
+    str_name = "R. L. Slime",
+    description = "An old geezer sits outside the comics shop in a folding chair. The table im front of him has a stack of unsold children\'s books, which upon closer inspection, are actually completely empty. He looks at you expectantly.",
+    poi_list = ewcfg.poi_id_glocksbury,
+    dialogue = {"loop":["You here to buy the new book? Only one poudrin!", "I miss zine 93...", "Buh bum bum buhbum", "https://youtu.be/4PkFLTfID_o"],
+                "talk":["Free autographs!", "Please... please buy a book.", "Do you have any BBQ packets? I seem to have run out of slime..."],
+                "die":["Don't take me to the hospital, I can\'t afford it..."],
+                "hit":["Giving me new material, eh?"],
+                "give":["Reader beware! You're in for a sc- oh no I'm out of books..."],
+                 },
+    func_ai = npcutils.chatty_npc_action,
+    image_profile = "https://media.discordapp.net/attachments/787047462300286998/1129335006599327804/rlslime.png?width=603&height=670",
+    defaultslime = 10001,
+    defaultlevel = 2,
+    slimeoid_name = "The Dog From The Theme Song",
+    starting_statuses = ['6leveltrainer', ewcfg.status_enemy_trainer_id],
+    is_threat=False
+),
 ]
 
 for npc in npc_list:
